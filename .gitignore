@@ -1,0 +1,7 @@
+.vscode/
+.DS_store
+.idea/
+build/
+*.o
+*.so
+*.a
